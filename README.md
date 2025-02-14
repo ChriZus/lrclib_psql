@@ -2,7 +2,17 @@
 
 ## Introduction
 
-LRCLIB server written in Rust with Axum and SQLite3 database.
+LRCLIB server written in Rust with Axum and SQLite3 database. 
+
+> [!NOTE]
+> This repo has been Forked from [tranxuanthang -> lrclib](https://github.com/tranxuanthang/lrclib) to integrate PostgreSQL Database backend.
+
+- [x] Created Fork
+- [ ] Integrate PostgreSQL backend
+- [ ] Validate Test
+
+> [!CAUTION]
+> Do not use this Repo. the software is **NOT** safe for production use!!!
 
 This is the source code of [lrclib.net](https://lrclib.net) rewritten in Rust from scratch. LRCLIB is a completely free service for finding and contributing synchronized lyrics, with an easy-to-use and machine-friendly APIs.
 
